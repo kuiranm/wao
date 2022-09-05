@@ -94,14 +94,6 @@ export const config = {
   CITY: "惠州",
   
   
-  /** 生日相关 */
-
-  // 修改名字为对应显示名字
-  BIRTHDAYS: [
-    {"name": "小文", "year": "1999", "date": "04-26","r":"new"},
-    {"name": "小孟", "year": "1998", "date": "08-14","r":"new"},
-  ],
-  
 
   /** 重要节日相关 */
 
@@ -116,6 +108,8 @@ export const config = {
     {"type": "农历生日", "name": "小文", "year": "1999", "date": "r04-26"},
     {"type": "生日", "name": "小孟", "year": "1998", "date": "08-14"},
     {"type": "农历生日", "name": "小孟", "year": "1998", "date": "r08-14"},
+    {"name": "小文", "year": "1999", "date": "04-26","r":"new"},
+    {"name": "小孟", "year": "1998", "date": "08-14","r":"new"},
   ],
 
   /**
