@@ -104,9 +104,9 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "小文", "year": "1999", "date": "04-26"},
-    {"type": "节日", "中秋节": "中秋节", "year": "2022", "date": "08-14"},
+    {"r": "农历生日", "name": "小文", "year": "1999", "date": "04-26"},
     {"type": "生日", "name": "小孟", "year": "1998", "date": "08-14"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"r": "农历生日", "name": "小孟", "year": "1998", "date": "08-14"},
   ],
 
   /**
@@ -114,7 +114,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 2,
+  FESTIVALS_LIMIT: 0,
 
   /** 日期相关 */
 
