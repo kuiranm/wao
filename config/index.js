@@ -18,7 +18,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "oiqNI6yloDP8k6s-vd9qvZiuV3hQ",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "yH-KErzfkE0amxuLkz3IssAnlujnRt9M0cBySOHbWRs",
+   *    useTemplateId: "7ch2Qiv1g8XR-FzGeAFjEaI0py0yJR2HmMUh8QqAanE",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oiqNI6yloDP8k6s-vd9qvZiuV3hQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "yH-KErzfkE0amxuLkz3IssAnlujnRt9M0cBySOHbWRs",
+      useTemplateId: "7ch2Qiv1g8XR-FzGeAFjEaI0py0yJR2HmMUh8QqAanE",
       // 所在省份
       province: "四川",
       // 所在城市
@@ -42,7 +42,7 @@ export const config = {
     {
       name: "小文", 
       id: "oiqNI6yloDP8k6s-vd9qvZiuV3hQ",
-      useTemplateId: "yH-KErzfkE0amxuLkz3IssAnlujnRt9M0cBySOHbWRs",
+      useTemplateId: "7ch2Qiv1g8XR-FzGeAFjEaI0py0yJR2HmMUh8QqAanE",
       province: "四川",
       city: "成都",
       openUrl: "https://wangxinleo.cn"
@@ -50,7 +50,7 @@ export const config = {
     {
       name: "小孟",
       id: "oiqNI6_Cwrg-jqjBMlYpHwGhYzgQ",
-      useTemplateId: "yH-KErzfkE0amxuLkz3IssAnlujnRt9M0cBySOHbWRs",
+      useTemplateId: "7ch2Qiv1g8XR-FzGeAFjEaI0py0yJR2HmMUh8QqAanE",
       province: "江西",
       city: "南昌",
       openUrl: "https://wangxinleo.cn"
@@ -105,7 +105,7 @@ export const config = {
   FESTIVALS: [
     {"生日": "生日", "小文": "生日", "year": "1999", "date": "04-26"},
     {"type": "节日", "中秋节": "中秋节", "year": "2022", "date": "08-14"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
+    {"type": "生日", "name": "小文", "year": "1999", "date": "04-26"},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
