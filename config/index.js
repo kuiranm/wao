@@ -50,7 +50,7 @@ export const config = {
     {
       name: "小孟",
       id: "oiqNI6_Cwrg-jqjBMlYpHwGhYzgQ",
-      useTemplateId: "BfxOHA9Tag9Is8QztzCA5bEeexyW2CHVOOlifJhaw9w",
+      useTemplateId: "QMPvH4YN1yDiF1bCNBj7nlf4hHMI0zrD575xkr79KwM",
       province: "江西",
       city: "南昌",
       openUrl: "https://wangxinleo.cn"
@@ -114,7 +114,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 1,
+  FESTIVALS_LIMIT: 2,
 
   /** 日期相关 */
 
