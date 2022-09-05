@@ -92,6 +92,11 @@ export const config = {
   PROVINCE: "广东",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
   CITY: "惠州",
+  //生日，修改名字为对应需要显示的名字，如果生日为农历type为r
+  birthdays：[
+  {"name":"小文","year":"1999","date":"04-26","r":"new"},
+  {"name":"小孟","year":"1998","date":"08-14","r":"new"},
+  ],
 
   /** 重要节日相关 */
 
@@ -113,7 +118,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 4,
+  FESTIVALS_LIMIT: 1,
 
   /** 日期相关 */
 
